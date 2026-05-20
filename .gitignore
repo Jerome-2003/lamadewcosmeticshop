@@ -25,3 +25,4 @@ Thumbs.db
 # Optional: Build or dist folders (if you use TypeScript or a bundler)
 dist/
 build/
+
